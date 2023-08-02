@@ -1,0 +1,28 @@
+.home-wrapper {
+    width: 1440px;
+    height: 800px;
+}
+
+.home-header {
+    width: 1171px;
+    height: 66px;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+}
+
+.my-profile-text-wrapper {
+    width: 475px;
+    height: 62px;
+}
+
+.home-navbar {
+    width: 586px;
+    height: 66px;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    border: 1px solid white;
+
+}
+
