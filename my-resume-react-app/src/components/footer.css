@@ -1,0 +1,13 @@
+.my-email-wrapper {
+  display: flex;
+   justify-content: space-between;
+ 
+}
+
+.email-footer-icon {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+

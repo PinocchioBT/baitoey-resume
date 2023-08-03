@@ -1,0 +1,23 @@
+.work-card {
+  width: calc(
+    33.33% - 10px
+  ); /* Each card takes up one-third of the container minus the spacing */
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.work-preview img {
+  width: 80%;
+  height: auto;
+}
+
+.work-lists {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.top-text-wrapper {
+  display: flex;
+  justify-content: space-between;
+}

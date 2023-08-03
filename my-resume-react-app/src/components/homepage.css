@@ -1,0 +1,146 @@
+.home-wrapper {
+    width: 1440px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-header {
+    width: 1171px;
+    height: 66px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.my-profile-text-wrapper {
+    width: 475px;
+    height: 62px;
+    display: flex;
+
+}
+
+.myprofile {
+    margin-top: 60px;
+    width: 456px;
+    height: 507px;
+}
+
+.home-navbar {
+    width: 586px;
+    height: 66px;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+   
+}
+
+.home-button {
+    background-color: #25252500;
+    border-color: #25252500;
+}
+
+.home-button:hover {
+    font-size: larger;
+}
+
+.about-button {
+    background-color: #25252500;
+    border-color: #25252500;
+}
+
+.about-button:hover {
+font-size: larger;
+}
+
+.work-button {
+    background-color: #25252500;
+    border-color: #25252500;
+}
+
+.work-button:hover {
+    font-size: larger;
+}
+
+
+.contact-button {
+    background-color: #25252500;
+    border-color: #25252500;
+}
+
+.contact-button:hover {
+    font-size: larger;
+}
+
+
+
+
+.fb-wrapper {
+    width: 48px;
+    height: 48px;
+    background-color: #252525;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ig-wrapper {
+    width: 48px;
+    height: 48px;
+    background-color: #252525;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.github-wrapper {
+    width: 48px;
+    height: 48px;
+    background-color: #252525;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.gmail-wrapper {
+    width: 48px;
+    height: 48px;
+    background-color: #252525;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.social-media {
+    width: 389px;
+    height: 48px;
+    display: flex;
+    transform: rotate(270deg);
+    justify-content: space-between;
+    position: absolute;
+    left: 0;
+    bottom: 40%;
+}
+
+.social-media-link {
+    display: flex;
+    justify-content: space-between;
+    width: 220px;
+}
+
+.my-name {
+    color: #f4a7bb;
+}
+
+
+
+
+
