@@ -18,15 +18,14 @@ function Homepage() {
 
           <button className="work-button">WORK</button>
 
-          <button className="blog-button">BLOG</button>
 
           <button className="contact-button">CONTACT</button>
         </div>
       </div>
       <div className="myprofile">
         <img src="src\image\my-image.png" alt="my-image"></img>
-        <h1>Jaraweekorn Udkhammee</h1>
-        <h1>I am a Web Developer</h1>
+        <h1 className="my-name">Jaraweekorn Udkhammee</h1>
+        <h1 className="my-profile-info">I am an in-training Web Developer</h1>
       </div>
       <div className="social-media">
         <div className="follow-me-text">
