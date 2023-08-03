@@ -25,7 +25,8 @@ function Homepage() {
       <div className="myprofile">
         <img src="src\image\my-image.png" alt="my-image"></img>
         <h1 className="my-name">Jaraweekorn Udkhammee</h1>
-        <h1 className="my-profile-info">I am an in-training Web Developer</h1>
+        <h1 className="my-profile-info">I am Web Developer <br></br>in-training </h1>
+
       </div>
       <div className="social-media">
         <div className="follow-me-text">
